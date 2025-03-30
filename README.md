@@ -63,10 +63,9 @@ netflix-recommendation/
 └── requirements.txt
 ```
 
- ```bash
+ ```
    # Create the directory structure for datasets
-   mkdir -p data/raw data/cleaned
+   mkdir data/raw data/cleaned
 ```
-Before running the notebook, place all datasets in the `data/raw/` directory. The cleaned datasets after EDA will be stored in `data/cleaned/`
-   
-   # Download datasets manually (see links above) into data/raw/
+Download datasets manually (see links above) into the `data/raw/` directory before running the `notebooks/Netflix_EDA.ipynb` jupyter notebook. The cleaned datasets after EDA will be stored in the `data/cleaned/` directory.
+
