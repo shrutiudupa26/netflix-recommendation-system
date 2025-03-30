@@ -46,6 +46,7 @@ Add it to the .env file.
 *Note: The optimal values for INPUT_TOKEN_LIMIT, OUTPUT_TOKEN_LIMIT, and MAX_REQUESTS_PER_MINUTE will depend on your specific Anthropic model version and API subscription tier.*
 
 ### 3. Your file structure should look like:
+```
 netflix-recommendation/
 ├── data/
 │ ├── raw/
@@ -60,6 +61,7 @@ netflix-recommendation/
 │ └── Netflix_EDA.ipynb
 ├── .env
 └── requirements.txt
+```
 
  ```bash
    # Create the directory structure for datasets
