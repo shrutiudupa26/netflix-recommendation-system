@@ -1,0 +1,9 @@
+pandas
+numpy
+polars
+matplotlib
+seaborn
+joypy
+nltk
+anthropic
+python-dotenv
