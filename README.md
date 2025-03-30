@@ -40,10 +40,11 @@ INPUT_TOKEN_LIMIT=8000
 OUTPUT_TOKEN_LIMIT=100
 MAX_REQUESTS_PER_MINUTE=50
 
+*Note:
 To get an Anthropic API key:
 Sign up at Anthropic's website and create an API key in your account settings.
 Add it to the .env file.
-*Note: The optimal values for INPUT_TOKEN_LIMIT, OUTPUT_TOKEN_LIMIT, and MAX_REQUESTS_PER_MINUTE will depend on your specific Anthropic model version and API subscription tier.*
+The optimal values for INPUT_TOKEN_LIMIT, OUTPUT_TOKEN_LIMIT, and MAX_REQUESTS_PER_MINUTE will depend on your specific Anthropic model version and API subscription tier.*
 
 ### 3. Your file structure should look like:
 ```
