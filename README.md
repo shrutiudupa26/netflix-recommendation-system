@@ -33,12 +33,13 @@ pip install -r requirements.txt
 ```
 
 ### 2. Create a .env file in your project root with these variables: 
-
+```
 ANTHROPIC_API_KEY=your_api_key_here
 CLAUDE_MODEL=your_claude_model
 INPUT_TOKEN_LIMIT=8000 
 OUTPUT_TOKEN_LIMIT=100
 MAX_REQUESTS_PER_MINUTE=50
+```
 
 *Note:
 To get an Anthropic API key:
