@@ -1,4 +1,4 @@
-# Netflix Dataset EDA and Recommendation System Preparation
+# Netflix Recommendation System
 
 ## Overview
 This project builds a comprehensive Netflix recommendation system using both collaborative filtering and content-based approaches. The workflow includes:
