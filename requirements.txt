@@ -7,3 +7,6 @@ joypy
 nltk
 anthropic
 python-dotenv
+pyspark
+boto3
+scikit-learn
