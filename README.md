@@ -9,7 +9,7 @@ This project builds a comprehensive Netflix recommendation system using both col
    - Collaborative filtering using Alternating Least Squares (ALS)
    - Content-based recommendations using cosine similarity
 
-For deeper insights into Netflix's my approach and thought process, feel free to check out my medium posts on the [EDA process](https://medium.com/@udupashruti/first-try-at-building-an-end-to-end-recommendation-system-exploratory-data-analysis-c90cfd1b6ad6) and [Model Building process](https://medium.com/@udupashruti/first-try-at-building-a-recommendation-system-model-development-c82ef6e9e775):
+For deeper insights into my approach and thought process, feel free to check out my medium posts on the [EDA process](https://medium.com/@udupashruti/first-try-at-building-an-end-to-end-recommendation-system-exploratory-data-analysis-c90cfd1b6ad6) and [Model Building process](https://medium.com/@udupashruti/first-try-at-building-a-recommendation-system-model-development-c82ef6e9e775):
 
 ## Datasets Required
 To run this analysis, you'll need the following datasets:
